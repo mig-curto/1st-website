@@ -1,0 +1,154 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6
+}
+
+#h3skill {
+    position: relative;
+    margin: 80px auto 0px auto;
+}
+
+hr{
+    border: dotted #66BFBF 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #E1EEDD;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+margin: 100px 0;
+}
+
+.body1 {
+    position: relative;
+    margin-top: 50px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.mountain-skill1 {
+    width: 25%;
+    border-radius: 50%;
+    border: solid 1px;
+    border-color: #11999E;
+    float: left;
+    margin-right: 30px;
+}
+
+.mountain-skill2 {
+    width: 25%;
+    border-radius: 50%;
+    border: solid 1px;
+    border-color: #11999E;
+    float: right;
+    margin-left: 30px;
+}
+
+.SEO {
+    text-decoration: underline;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.btn {
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    -webkit-box-shadow: 1px 4px 3px #ccc8cc;
+    -moz-box-shadow: 1px 4px 3px #ccc8cc;
+    box-shadow: 1px 4px 3px #ccc8cc;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
